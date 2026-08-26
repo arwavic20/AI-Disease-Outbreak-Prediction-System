@@ -139,7 +139,7 @@ pytest test_diseasewatch.py -v
 
 ## 👨‍💻 Author
 
-**Arwa**
+**Victor Omondi Arwa - SCT221-0112/2019**
 Final-Year Computer Science / Information Systems Student
 
 ## 📜 License
